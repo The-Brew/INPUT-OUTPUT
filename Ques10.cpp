@@ -3,9 +3,9 @@
 using namespace std;
  int main()
  {
-     char c= 'a'; //first char//
-     char b= 'A';  // second char//
-     char a='D';
+     char c= 'f'; //first char//
+     char b= 'a';  // second char//
+     char a='e';
      cout<<(int)a-b-c<<endl; //here is typecasting a char value as an integer//
    cout<< b-c<<endl;
      
